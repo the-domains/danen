@@ -1,28 +1,40 @@
-name: Danen
 favicon: null
-layout_spectrum: 0.0933387887198478
-typography_spectrum: 0.0897430928889662
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Danen
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.125
+  brandStrength: 0.4744681
+  lightness: 0
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.982695639366284
-  lightness: 0
-  saturation: 0.125
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1531915
+layout_spectrum: 0.5361702
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null

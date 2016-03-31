@@ -4,8 +4,22 @@
         <description><![CDATA[Danen]]></description>
         <link>https://thegrid.ai/danen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 17:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 02:54:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow]]></title>
+            <description><![CDATA[<article><h1>Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow</h1><p>Wes McKinney, Software Engineer, ClouderaHadley Wickham, Chief Scientist, RStudio This past January, we (Hadley and Wes) met and discussed some of the systems challenges facing the Python and R open source communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d55faca20ce067b643d207ad373a7a14b5b6b48.jpg"></article>]]></description>
+            <link>http://blog.rstudio.org/2016/03/29/feather/</link>
+            <guid isPermaLink="false">8cdebc40-7a25-4922-943f-89eef9a31f64</guid>
+            <pubDate>Thu, 31 Mar 2016 02:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Loophole in the Hedonic Treadmill - Facts So Romantic - Nautilus]]></title>
+            <description><![CDATA[<article><h1>The Loophole in the Hedonic Treadmill - Facts So Romantic - Nautilus</h1><p>When Fyodor Dostoyevsky wrote, in The House of the Dead, that "Man is a creature that can get accustomed to anything," he was talking about the cruelties and deprivations of life in Siberian prison camp. But the human tendency to adapt or "get accustomed" to situations is more profound than even Dostoyevsky may have realized.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64ed78594749a4d5faa284280747a98f2c03fe40.jpg"></article>]]></description>
+            <link>http://m.nautil.us/blog/the-loophole-in-the-hedonic-treadmill</link>
+            <guid isPermaLink="false">939eb44c-05bf-43f7-b305-b8898f962af2</guid>
+            <pubDate>Thu, 31 Mar 2016 02:53:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HTTP/HTTPS not working inside your VM? Wait for it.]]></title>
             <description><![CDATA[<article><h1>HTTP/HTTPS not working inside your VM? Wait for it.</h1><p>Have you ever run into a problem, done some troubleshooting, but decided it only affected yourself, and shelved it for a while? I did that a couple of a months ago with a particular problem which forced its way back into my life this morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4d168a201bc72a0f28daa003f2cf796830fbb05.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://setosa.io/ev/markov-chains/</link>
             <guid isPermaLink="false">2a77076e-8fa6-4fb1-86f7-5542d6aced32</guid>
             <pubDate>Mon, 21 Mar 2016 20:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google’s authentication-less on-the-fly image resizing service]]></title>
-            <description><![CDATA[<h1>Google’s authentication-less on-the-fly image resizing service</h1>]]></description>
-            <link>https://gist.github.com/5379498</link>
-            <guid isPermaLink="false">c2c5fcd8-28fa-4495-8e70-8ebd75af929b</guid>
-            <pubDate>Mon, 21 Mar 2016 20:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meater - I need this. ]]></title>
-            <description><![CDATA[<article><h1>Meater - I need this. </h1><p>Meater is the only meat thermometer that will guarantee perfectly cooked meats every time you cook. | Crowdfunding is a democratic way to support the fundraising needs of your community. Make a contribution today!</p></article>]]></description>
-            <link>https://www.indiegogo.com/projects/meater-the-only-wire-free-smart-meat-thermometer#/</link>
-            <guid isPermaLink="false">88042b48-fdbf-48b4-b0de-008ea79e666b</guid>
-            <pubDate>Mon, 21 Mar 2016 15:15:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

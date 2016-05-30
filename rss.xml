@@ -4,8 +4,15 @@
         <description><![CDATA[Danen]]></description>
         <link>https://thegrid.ai/danen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 02:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 17:20:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://vintageprintable.com/wp-content/uploads/2009/04/691px-abrakadabra_nordisk_familjebok1.png">]]></description>
+            <link>https://thegrid.ai/danen/b846549f-933a-48aa-a3ca-d1858b5458e5/index.html</link>
+            <guid isPermaLink="false">b846549f-933a-48aa-a3ca-d1858b5458e5</guid>
+            <pubDate>Mon, 30 May 2016 17:20:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow]]></title>
             <description><![CDATA[<article><h1>Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow</h1><p>Wes McKinney, Software Engineer, ClouderaHadley Wickham, Chief Scientist, RStudio This past January, we (Hadley and Wes) met and discussed some of the systems challenges facing the Python and R open source communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d55faca20ce067b643d207ad373a7a14b5b6b48.jpg"></article>]]></description>
@@ -56,13 +63,6 @@
             <pubDate>Mon, 21 Mar 2016 21:33:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About Me:]]></title>
-            <description><![CDATA[<article><h1>About Me:</h1><p>I'm cool.</p></article>]]></description>
-            <link>https://thegrid.ai/danen/about-me/index.html</link>
-            <guid isPermaLink="false">1189fb7c-262b-4349-ab96-b38723508d9b</guid>
-            <pubDate>Mon, 21 Mar 2016 21:29:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b29bd1-5645-4523-beb5-5ac575360d13.png">]]></description>
             <link>https://thegrid.ai/danen/b5793466-6f50-45f0-9ba7-16ea8d8350fb/index.html</link>
@@ -70,11 +70,11 @@
             <pubDate>Mon, 21 Mar 2016 21:30:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Markov Chains explained visually]]></title>
-            <description><![CDATA[<article><h1>Markov Chains explained visually</h1><p>Explained Visually By Victor Powell with text by Lewis Lehe Markov chains, named after Andrey Markov, are mathematical systems that hop from one "state" (a situation or set of values) to another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed119612dfdc3652d2f1653f21b400cf0d213bef.png"></article>]]></description>
-            <link>http://setosa.io/ev/markov-chains/</link>
-            <guid isPermaLink="false">2a77076e-8fa6-4fb1-86f7-5542d6aced32</guid>
-            <pubDate>Mon, 21 Mar 2016 20:45:25 GMT</pubDate>
+            <title><![CDATA[About Me:]]></title>
+            <description><![CDATA[<article><h1>About Me:</h1><p>I'm cool.</p></article>]]></description>
+            <link>https://thegrid.ai/danen/about-me/index.html</link>
+            <guid isPermaLink="false">1189fb7c-262b-4349-ab96-b38723508d9b</guid>
+            <pubDate>Mon, 21 Mar 2016 21:29:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
